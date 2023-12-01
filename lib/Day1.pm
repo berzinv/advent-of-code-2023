@@ -32,3 +32,5 @@ sub extract_digits($data) {
 sub problem2(@data) {
     return sum map { extract_digits $_ } @data;
 }
+
+1;
