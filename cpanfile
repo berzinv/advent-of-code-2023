@@ -1,0 +1,1 @@
+requires 'String::Util', '1.34';
